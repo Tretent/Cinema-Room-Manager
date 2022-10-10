@@ -1,2 +1,2 @@
 # Cinema-Room-Manager
-Kotlin Basics project
+JetBrains Academy Kotlin Basics Cinema Room Manager project
